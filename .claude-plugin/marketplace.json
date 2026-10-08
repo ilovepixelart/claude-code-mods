@@ -19,12 +19,7 @@
       "homepage": "https://github.com/ilovepixelart/pass-or-bust-mod#readme",
       "license": "MIT",
       "category": "fun",
-      "tags": [
-        "slot-machine",
-        "testing",
-        "gamification",
-        "tui"
-      ]
+      "tags": ["slot-machine", "testing", "gamification", "tui"]
     },
     {
       "name": "trial-run",
@@ -38,13 +33,7 @@
       "homepage": "https://github.com/ilovepixelart/trial-run-mod#readme",
       "license": "MIT",
       "category": "fun",
-      "tags": [
-        "guardrails",
-        "git",
-        "terraform",
-        "kubectl",
-        "tui"
-      ]
+      "tags": ["guardrails", "git", "terraform", "kubectl", "tui"]
     },
     {
       "name": "line-clear",
@@ -58,11 +47,7 @@
       "homepage": "https://github.com/ilovepixelart/line-clear-mod#readme",
       "license": "MIT",
       "category": "fun",
-      "tags": [
-        "game",
-        "puzzle",
-        "tui"
-      ]
+      "tags": ["game", "puzzle", "tui"]
     }
   ]
 }
