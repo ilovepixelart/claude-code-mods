@@ -34,6 +34,20 @@
       "license": "MIT",
       "category": "fun",
       "tags": ["guardrails", "git", "terraform", "kubectl", "tui"]
+    },
+    {
+      "name": "line-clear",
+      "displayName": "Line Clear",
+      "description": "A falling-block line-clearing game to play in a pane while Claude works.",
+      "source": {
+        "source": "github",
+        "repo": "ilovepixelart/line-clear-mod",
+        "ref": "line-clear--v0.1.0"
+      },
+      "homepage": "https://github.com/ilovepixelart/line-clear-mod#readme",
+      "license": "MIT",
+      "category": "fun",
+      "tags": ["game", "puzzle", "tui"]
     }
   ]
 }
