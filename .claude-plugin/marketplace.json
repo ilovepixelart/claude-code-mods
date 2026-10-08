@@ -20,6 +20,20 @@
       "license": "MIT",
       "category": "fun",
       "tags": ["slot-machine", "testing", "gamification", "tui"]
+    },
+    {
+      "name": "trial-run",
+      "displayName": "Trial Run",
+      "description": "Puts risky shell commands on trial: a prosecutor, a defense and a judge argue in a pane, and a guilty verdict stops the command.",
+      "source": {
+        "source": "github",
+        "repo": "ilovepixelart/trial-run-mod",
+        "ref": "trial-run--v0.1.0"
+      },
+      "homepage": "https://github.com/ilovepixelart/trial-run-mod#readme",
+      "license": "MIT",
+      "category": "fun",
+      "tags": ["guardrails", "git", "terraform", "kubectl", "tui"]
     }
   ]
 }
