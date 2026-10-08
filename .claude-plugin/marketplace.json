@@ -12,42 +12,57 @@
       "displayName": "Pass or Bust",
       "description": "Slots for your test runs: the reels spin while Claude runs the tests and stop on the real result. Fake credits only.",
       "source": {
-        "source": "github",
-        "repo": "ilovepixelart/pass-or-bust-mod",
+        "source": "url",
+        "url": "https://github.com/ilovepixelart/pass-or-bust-mod.git",
         "ref": "pass-or-bust--v0.3.1"
       },
       "homepage": "https://github.com/ilovepixelart/pass-or-bust-mod#readme",
       "license": "MIT",
       "category": "fun",
-      "tags": ["slot-machine", "testing", "gamification", "tui"]
+      "tags": [
+        "slot-machine",
+        "testing",
+        "gamification",
+        "tui"
+      ]
     },
     {
       "name": "trial-run",
       "displayName": "Trial Run",
       "description": "Puts risky shell commands on trial: a prosecutor, a defense and a judge argue in a pane, and a guilty verdict stops the command.",
       "source": {
-        "source": "github",
-        "repo": "ilovepixelart/trial-run-mod",
+        "source": "url",
+        "url": "https://github.com/ilovepixelart/trial-run-mod.git",
         "ref": "trial-run--v0.3.0"
       },
       "homepage": "https://github.com/ilovepixelart/trial-run-mod#readme",
       "license": "MIT",
       "category": "fun",
-      "tags": ["guardrails", "git", "terraform", "kubectl", "tui"]
+      "tags": [
+        "guardrails",
+        "git",
+        "terraform",
+        "kubectl",
+        "tui"
+      ]
     },
     {
       "name": "line-clear",
       "displayName": "Line Clear",
       "description": "A falling-block line-clearing game to play in a pane while Claude works.",
       "source": {
-        "source": "github",
-        "repo": "ilovepixelart/line-clear-mod",
+        "source": "url",
+        "url": "https://github.com/ilovepixelart/line-clear-mod.git",
         "ref": "line-clear--v0.1.0"
       },
       "homepage": "https://github.com/ilovepixelart/line-clear-mod#readme",
       "license": "MIT",
       "category": "fun",
-      "tags": ["game", "puzzle", "tui"]
+      "tags": [
+        "game",
+        "puzzle",
+        "tui"
+      ]
     }
   ]
 }
