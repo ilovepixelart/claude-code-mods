@@ -15,7 +15,7 @@ Each entry is pinned to a released version, so you get exactly what was tested a
 
 | Mod | What it does | Release |
 | --- | --- | --- |
-| [pass-or-bust](https://github.com/ilovepixelart/pass-or-bust-mod) | Slots for your test runs. The reels spin while Claude runs the tests and stop on the real result. Fake credits only. | [0.1.0](https://github.com/ilovepixelart/pass-or-bust-mod/releases/tag/pass-or-bust--v0.1.0) |
+| [pass-or-bust](https://github.com/ilovepixelart/pass-or-bust-mod) | Slots for your test runs. The reels spin while Claude runs the tests and stop on the real result. Fake credits only. | [0.2.0](https://github.com/ilovepixelart/pass-or-bust-mod/releases/tag/pass-or-bust--v0.2.0) |
 | [trial-run](https://github.com/ilovepixelart/trial-run-mod) | Puts risky shell commands on trial. A prosecutor, a defense and a judge argue in a pane, and a guilty verdict stops the command. | [0.3.0](https://github.com/ilovepixelart/trial-run-mod/releases/tag/trial-run--v0.3.0) |
 | [line-clear](https://github.com/ilovepixelart/line-clear-mod) | A falling-block line-clearing game to play in a pane while Claude works. Click to play, or ctrl+x tab and w a s d. | [0.1.0](https://github.com/ilovepixelart/line-clear-mod/releases/tag/line-clear--v0.1.0) |
 
