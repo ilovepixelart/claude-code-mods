@@ -28,7 +28,7 @@
       "source": {
         "source": "github",
         "repo": "ilovepixelart/trial-run-mod",
-        "ref": "trial-run--v0.1.0"
+        "ref": "trial-run--v0.2.0"
       },
       "homepage": "https://github.com/ilovepixelart/trial-run-mod#readme",
       "license": "MIT",
