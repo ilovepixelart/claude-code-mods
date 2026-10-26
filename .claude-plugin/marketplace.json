@@ -48,6 +48,20 @@
       "license": "MIT",
       "category": "fun",
       "tags": ["game", "puzzle", "tui"]
+    },
+    {
+      "name": "ascii-dungeon",
+      "displayName": "ASCII Dungeon",
+      "description": "A pixel roguelike in a pane, played by your coding session: each tool call moves the hero, a failure lets the foe hit back, and real work pays.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ilovepixelart/ascii-dungeon-mod.git",
+        "ref": "ascii-dungeon--v0.5.0"
+      },
+      "homepage": "https://github.com/ilovepixelart/ascii-dungeon-mod#readme",
+      "license": "MIT",
+      "category": "fun",
+      "tags": ["game", "roguelike", "pixel-art", "tui"]
     }
   ]
 }
